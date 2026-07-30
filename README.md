@@ -1,4 +1,4 @@
-# 🚀 FIIR - Gestão de Licenças com Spring Boot
+# 🚀 FIRR - Gestão de Licenças com Spring Boot
 
 Sistema para cadastro, consulta e gerenciamento de licenças, desenvolvido em **Java** com **Spring Boot**.
 
@@ -32,4 +32,4 @@ Sistema para cadastro, consulta e gerenciamento de licenças, desenvolvido em **
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/lucasnery0122-cpu/fiir-licencas-spring-boot.git](https://github.com/lucasnery0122-cpu/fiir-licencas-spring-boot.git)
+   git clone [https://github.com/lucasnery0122-cpu/firr-licencas-spring-boot.git](https://github.com/lucasnery0122-cpu/firr-licencas-spring-boot.git)
